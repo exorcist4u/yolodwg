@@ -326,3 +326,4 @@ if __name__ == "__main__":
         limit_number_of_records=opt['limit_number_of_records'],
         
         checkpoint_path=opt['checkpoint'])
+    
